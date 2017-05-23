@@ -1,0 +1,38 @@
+h1 {
+  color: Red;
+
+  line-height: 100px;
+}
+body{
+
+  text-align: center;;
+
+}
+
+p  {
+  font-style: italic;;
+  font-weight: bold;
+  font-family: sans-serif;
+
+}
+
+
+
+h3 {
+  color: gray;
+  text-align: center;
+  font-size:2;
+}
+li {
+  list-style: none;
+  color:purple;
+  font-style: normal;
+
+  font-size: 30px
+
+}
+
+ul {
+  font-size: 20px;
+  line-height: 30px;
+}
