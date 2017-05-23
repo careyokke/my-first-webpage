@@ -1,4 +1,4 @@
-# _{An HTML page named My First Webpage}_
+# _An HTML page named My First Webpage_
 **05.22.2017**
 ## by **Alena Golovina** and **Saul Artiga**
 
@@ -13,4 +13,4 @@ This page tells about things we like and serves an an HTML exercise for the firs
 * Git
 * GitHub
 
-Copyright (c) 2016 **_{AlenaSG}_**
+Copyright (c) 2016 **_AlenaSG_**
