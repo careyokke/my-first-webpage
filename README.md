@@ -3,7 +3,7 @@
 ## by Yokke Hargono, Alena Golovina and Saul Artiga
 
 ### Description:
-This page tells about things we like and serves an an HTML exercise for the first day at the coding school.
+This page tells about things we like and serves as an HTML exercise for the first day at the coding school.
 
 ### Technologies used:
 
